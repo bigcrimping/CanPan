@@ -33,4 +33,4 @@ All of the parts are retained with M3 fixings, the fixing for the core to the ba
 
 ![mold_labeled](https://github.com/user-attachments/assets/d68c96c6-c2e1-4b59-8e6e-0975f1044d5a)
 
-The files for the silicone mould can be found in the mold_mech folder https://github.com/bigcrimping/CanPan/tree/main/mold_mech
+The files for the silicone mould can be found in the mold_mech folder https://github.com/bigcrimping/CanPan/tree/main/mould_mech
