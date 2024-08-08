@@ -27,10 +27,10 @@ The files for the Base and Top can be found in the canpan_mech folder https://gi
 
 # CanPan Silicon Sleeve
 
-The silicone sleeve is made in a four part mold to aid in release as there are multiple undercuts.
+The silicone sleeve is made in a four part mould to aid in release as there are multiple undercuts.
 
 All of the parts are retained with M3 fixings, the fixing for the core to the base is M3 CSK. All the other fixing are M3.
 
 ![mold_labeled](https://github.com/user-attachments/assets/d68c96c6-c2e1-4b59-8e6e-0975f1044d5a)
 
-The files for the silicone mold can be found in the mold_mech folder https://github.com/bigcrimping/CanPan/tree/main/mold_mech
+The files for the silicone mould can be found in the mold_mech folder https://github.com/bigcrimping/CanPan/tree/main/mold_mech
