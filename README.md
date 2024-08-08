@@ -23,7 +23,7 @@ The design consists of three elements
 
 ![top_dimensions](https://github.com/user-attachments/assets/dcb57776-6bd2-4897-9923-4ab60b549a70)
 
-The files for the Base and Top can be found in the canpan_mech folder
+The files for the Base and Top can be found in the canpan_mech folder https://github.com/bigcrimping/CanPan/tree/main/canpan_mech 
 
 # CanPan Silicon Sleeve
 
@@ -31,4 +31,4 @@ The silicone sleeve is made in a four part mold to aid in release as there are m
 
 ![mold_labeled](https://github.com/user-attachments/assets/d68c96c6-c2e1-4b59-8e6e-0975f1044d5a)
 
-The files for the silicone mold can be found in the mold_mech folder
+The files for the silicone mold can be found in the mold_mech folder https://github.com/bigcrimping/CanPan/tree/main/mold_mech
